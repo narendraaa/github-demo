@@ -1,0 +1,5 @@
+demo file tex
+demo file txt
+demo file edited
+demo added
+git s
